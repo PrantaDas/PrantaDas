@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Mern Stack Development
+- 🔭 I’m currently working on ...MERN Stack Development
 - 🌱 I’m currently learning ...TypeScript
 - 👯 I’m looking to collaborate on ...Next Js
 - 🤔 I’m looking for help with ...AWS
