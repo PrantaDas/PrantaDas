@@ -1,6 +1,6 @@
 ### Hi there,Here is what I am working on 👋
 
-<!--
+
 
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 My Portfolio: ...[Portfolio](https://my-portfolio-1c4ab.web.app/)
 - 😄 Pronouns: ...Me/Him
 - ⚡ Fun fact: ...I am half finish
--->
+
