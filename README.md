@@ -3,7 +3,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...MERN Stack Development
 - 🌱 I’m currently learning ...TypeScript
